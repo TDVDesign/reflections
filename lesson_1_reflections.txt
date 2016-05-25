@@ -1,0 +1,2 @@
+Q: How did viewing a diff between two versions of a file help ou see the bug that was introduced?
+A: Viewing the diff between the two files pointed out the regions in the file that were different, and the surrounding lines.  I am not sure how useful the command prompt system is.  I am much more used to GUI interfaces, and see the command prompt as something that is difficutl to actually view the file structure, and therefore difficult to determine what is actually in place.

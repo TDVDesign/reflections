@@ -5,4 +5,8 @@ Q:  Why might you want to always pull changes manually rather than having Git au
 
 A:  If Git stays up to date automatically, and you are working on a file, it might try to change the file you are working on.  Rather, when you are ready, you can check for updates.
 
+Q:  Describe the differences between forks, clones and branches.  When would you use one instead of another?
 
+A:  Forks are cloned repositories that come from another GitHub member.  A fork is a clone, which is just a copy of a repository.  Branches are sections of a repository that contain everything 'visible' to the branch.  
+
+A branch would be used when adding a feature or change to a repository.  A fork would be used when cloning another user's work to add to or make changes on.  A clone is used to download a repository from GitHub, or make a local copy on your machine.

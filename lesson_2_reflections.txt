@@ -2,3 +2,6 @@ Q:  What happens when you initialize a repository?  Why do you need to do it?
 
 A:  When you initialize a repository, it creates the metadata in a hidden .git file that contains revision history, etc.  This needs to be done to keep track of commits and versions.
 
+Q:  What are some situations when branches would be helpful in keeping your history organized?  How would branches help?
+
+A:  Branches would be helpful with experimental changes that you would not necessarily want the main branch to follow.  Changes can 

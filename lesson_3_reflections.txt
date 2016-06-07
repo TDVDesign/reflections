@@ -18,3 +18,7 @@ A:  The benefit of having a local copy is that you can work offline with the mos
 Q:  How would you collaborate without using Git or GitHub?  What would be easier, and what would be harder?
 
 A:  You could collaborate in a number of ways, most fairly simple, like using a shared network drive with revision folders.  The problem is that there is no built-in revision notes or storage of old revisions, so that making mistakes and not being able to undo them is a very real issue.
+
+Q:  When would you want to make changes in a separate branch rather than directly in master?  What benefits does each approach have?
+
+A:  You would want to make changes on a separate branch when the changes should be approved before a merger.  This approach makes it easier to collaborate with others before updating the master branch.
